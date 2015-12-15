@@ -1,5 +1,5 @@
-# nginx-container
-Nginx Sample Container #2
+# web-nginx-container
+Nginx Container
 
 You will need 2 execute build steps in Jenkins:
 
