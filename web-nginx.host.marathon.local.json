@@ -6,7 +6,7 @@
     "container": {
         "type": "DOCKER",
         "docker": {
-            "image": "docker-pilot.dsc.umich.edu:31111/web-nginx-container:latest",
+            "image": "docker-pilot.dsc.umich.edu:31111/web-nginx:latest",
             "network": "BRIDGE",
             "portMappings": [
                 {
